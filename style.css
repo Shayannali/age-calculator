@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-image:( red);
+    
+
+}
+#ss{
+    margin-top: 30%;
+    margin-right: 500%;
+    padding: 50px;
+    background-color: white;
+    border-radius: 30vh;
+    position: -1 !important;
+}
